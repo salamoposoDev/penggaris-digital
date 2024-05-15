@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "757892211534",
+    "firebase_url": "https://penggaris-digital-af2f1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "penggaris-digital-af2f1",
+    "storage_bucket": "penggaris-digital-af2f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757892211534:android:7455623f8674656824b41f",
+        "android_client_info": {
+          "package_name": "com.example.penggaris_digital"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Wuy6656BbOTkbEi8sA8XlvSy5dmj3mg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
